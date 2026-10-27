@@ -1,28 +1,37 @@
+# Data Analytics & Financial Analysis Portfolio
 
-# GitHub Practice
+Welcome to my portfolio of projects in data analytics, programming, and financial analysis.
 
-My first repository for learning GitHub and Python.
+## About This Portfolio
 
-## Project objective
+This repository documents my practical work and learning progress in data analysis, statistical modeling, and financial applications.
 
-Practice writing, executing, documenting, and publishing Python code.
+## Technical Skills
 
-## Technologies
+- **Python:** Data analysis, financial calculations, and machine learning.
+- **SQL:** Data querying and database analysis.
+- **Excel:** Data analysis, calculations, and reporting.
+- **Power BI:** Interactive dashboards and data visualization.
+- **Tableau:** Data visualization and analytical reporting.
 
-- Python
-- Visual Studio Code
-- Git
-- GitHub Desktop
+## Projects
 
-## How to run
+### 1. Financial Asset Performance Analysis
 
-1. Install Python.
-2. Open the project folder in VS Code.
-3. Run `main.py`.
+**Tools:** Python
 
-## Skills practiced
+Calculates the absolute price change and percentage price change of a financial asset using a sample of manually entered prices.
 
-- Python variables
-- Printing output
-- Version control
-- Repository documentation
+[View project folder](./01-financial-asset-performance/)
+
+## Upcoming Portfolio Areas
+
+- Financial econometrics and time-series analysis.
+- Machine learning for financial data.
+- SQL database projects.
+- Excel financial analysis.
+- Power BI and Tableau dashboards.
+
+## Contact
+
+Add your professional contact information here when ready.
