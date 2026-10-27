@@ -1,6 +1,9 @@
+print("My Python portfolio")
 
-print("Hello, GitHub!")
-print("My Python environment is working.")
+project_name = "GitHub Practice"
+programming_language = "Python"
+project_status = "First project published"
 
-name = "Data Analyst"
-print("My professional goal:", name)
+print("Project:", project_name)
+print("Language:", programming_language)
+print("Status:", project_status)
